@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Patient
+comment0.text=\n\n\ Eine\ Klasse\ zur\ Verwaltung\ eines\ Patienten\n\n\ @author\ (Mofadhal\ Al-Manari\ und\ Leen\ Alkhadraa)\n\ @version\ (19.01.2021)\n
+comment1.params=patientNumber\ vorUndNachName
+comment1.target=Patient(int,\ java.lang.String)
+comment1.text=\n\ Konstruktoren\:\ um\ Objekte\ anlegen\ zu\ k\u00F6nnen.\n\ \n\ @param\ \ patientNumber\ \ eine\ Zahl\ ist\n\ @param\ \ vorUndNachName\ String,\ der\ dei\ Vor-\ und\ Nachname\ enth\u00E4lt.\ \n\n
+comment2.params=
+comment2.target=java.lang.String\ getVorUndNachName()
+comment2.text=\n\ get-Methode\ f\u00FCr\ die\ Vor-\ und\ NachName\ der\ Patient.\n\ \n\ @return\ \ Inhalt\ von\ vor\ UNdNachName\n
+comment3.params=
+comment3.target=int\ getpatientNumber()
+comment3.text=\n\ get-Methode\ f\u00FCr\ die\ Nummer\ der\ Patient.\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ toString\ Methode,\ um\ die\ Nummer\ und\ Name\ der\ Patient\ auszugeben.\n\n\ @return\ \ Ausgabeaufbereiteter\ Inhalt\ von\ Informationen\ eine\ Patienten\n
+comment5.params=o
+comment5.target=boolean\ equals(java.lang.Object)
+numComments=6

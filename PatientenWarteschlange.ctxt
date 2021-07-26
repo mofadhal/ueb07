@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PatientenWarteschlange
+comment0.text=\n\n\ Eine\ Klasse\ zur\ Verwaltung\ einer\ Patientenwarteschlange\n\n\ @author\ (Mofadhal\ Al-Manari\ und\ Leen\ Alkhadraa)\n\ @version\ (19.01.2021)\n
+comment1.params=i
+comment1.target=PatientenWarteschlange(int)
+comment1.text=\n\ Diese\ Methode\ stellt\ neue\ Schlange\ ein.\n
+comment2.params=patientNr\ vorUndNachName
+comment2.target=void\ neuerPatient(int,\ java.lang.String)
+comment2.text=\n\ Diese\ Methode\ f\u00FCgt\ neuer\ Patient\ in\ der\ WarteSchlange\ ein.\n
+comment3.params=patientNr
+comment3.target=java.lang.String\ entfernePatient(int)
+comment3.text=\n\ Diese\ Methode\ l\u00F6scht\ neuer\ Patient\ von\ der\ WarteSchlange.\n
+comment4.params=
+comment4.target=Patient\ derNaechsteBitte()
+comment4.text=\n\ Diese\ Methode\ l\u00F6scht\ der\ erster\ Patient\ von\ der\ WarteSchlange.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Diese\ Methode\ gibt\ die\ Werte\ aus.\n
+numComments=6
